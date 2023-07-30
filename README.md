@@ -45,7 +45,7 @@ This data engineering project demonstrates the creation of a complete data pipel
 
 ## Architecture
 
-![Architecture](Spotify_data_pipeline_architecture (6).png)
+![Architecture](Spotify_data_pipeline_architecture.png)
 
 
 ## Conclusion 🏁
