@@ -43,6 +43,10 @@ This data engineering project demonstrates the creation of a complete data pipel
 - Predictive modeling to forecast music trends and identify popular songs.
 - Use data visualization techniques to create informative visualizations of Spotify data.
 
+## Architecture
+
+![Architecture](architecture.png)
+
 
 ## Conclusion 🏁
 
