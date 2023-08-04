@@ -50,4 +50,4 @@ This data engineering project demonstrates the creation of a complete data pipel
 
 ## Conclusion 🏁
 
-By following these steps, you will have successfully implemented a complete data pipeline for extracting, processing, and storing data from Spotify. The pipeline will be automated with triggers, enabling data extraction and transformation on a scheduled basis. The stored data will be available for analysis and querying using AWS Glue and Athena, providing valuable insights and analytics for your Spotify data. Happy data engineering! 🎉
+By following these steps, you will have successfully implemented a complete data pipeline for extracting, processing, and storing data from Spotify. The pipeline will be automated with triggers, enabling data extraction and transformation on a scheduled basis. The stored data will be available for analysis and querying using AWS Glue and Athena, providing valuable insights and analytics for your Spotify data. Happy data engineering! 🎉 
